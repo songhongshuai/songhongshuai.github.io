@@ -1,1 +1,1 @@
-{"name":"Songhongshuai.GitHub.io","tagline":"帅帅小窝","body":"# 帅帅的GitHub\r\n### 小iOS一枚，记录学习经历，13年入坑 决定留下点足迹。","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{"name":"Songhongshuai.GitHub.io","tagline":"帅帅小窝","body":"# 帅帅的GitHub\r\n### 小iOS一枚，记录学习经历，13年入坑 决定留下点足迹。\r\n\r\n    NSString*string =@\"sdfsfsfsAdfsdf\";\r\n\r\n    NSArray *array = [string componentsSeparatedByString:@\"A\"]; //从字符A中分隔成2个元素的数组","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
